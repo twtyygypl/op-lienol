@@ -16,7 +16,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL:https://github.com/immortalwrt/immortalwrt
+  REPO_URL:https://github.com/Lienol/openwrt
   REPO_BRANCH: 23.05
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
